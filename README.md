@@ -17,7 +17,7 @@ Curso Completo de Java 13 [Utilizando as mais novas tecnologias]
 * Programação Funcional com Java
 * Desenvolver WebService com Spring Boot e Banco de Dados
 * Java Desktop: Swing e JavaFX
-* Desenvolver projetos reais.
+* Desenvolver projetos reaiss.
 
 ## Professor
 * [Leonardo Leitão]
@@ -25,4 +25,5 @@ Curso Completo de Java 13 [Utilizando as mais novas tecnologias]
 ## Referências
 * [Plataforma Udemy](https://www.udemy.com/course/fundamentos-de-programacao-com-java/learn/lecture/15397224#overview)
 * [Oracle](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
+
 
